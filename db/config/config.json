@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "",
-    "password": "",
-    "database": "",
-    "host": "",
+    "username": "pm-db_owner",
+    "password": "YQma4JlsA9rV",
+    "database": "pm-db",
+    "host": "ep-yellow-shape-a5in824g.us-east-2.aws.neon.tech",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
